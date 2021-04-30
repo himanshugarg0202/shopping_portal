@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/shopping_portal/static/css/main.c944e667.chunk.css",
+    "main.js": "/shopping_portal/static/js/main.05908b98.chunk.js",
+    "main.js.map": "/shopping_portal/static/js/main.05908b98.chunk.js.map",
+    "runtime-main.js": "/shopping_portal/static/js/runtime-main.d44e8ad5.js",
+    "runtime-main.js.map": "/shopping_portal/static/js/runtime-main.d44e8ad5.js.map",
+    "static/js/2.24851a86.chunk.js": "/shopping_portal/static/js/2.24851a86.chunk.js",
+    "static/js/2.24851a86.chunk.js.map": "/shopping_portal/static/js/2.24851a86.chunk.js.map",
+    "index.html": "/shopping_portal/index.html",
+    "precache-manifest.9026b0a0a478fa1594eb44f99af3d9f4.js": "/shopping_portal/precache-manifest.9026b0a0a478fa1594eb44f99af3d9f4.js",
+    "service-worker.js": "/shopping_portal/service-worker.js",
+    "static/css/main.c944e667.chunk.css.map": "/shopping_portal/static/css/main.c944e667.chunk.css.map",
+    "static/js/2.24851a86.chunk.js.LICENSE.txt": "/shopping_portal/static/js/2.24851a86.chunk.js.LICENSE.txt",
+    "static/media/Boy.jpg": "/shopping_portal/static/media/Boy.fee85752.jpg",
+    "static/media/Girl.jpg": "/shopping_portal/static/media/Girl.74cc7990.jpg",
+    "static/media/App.css": "/shopping_portal/static/media/background.6a4bc03f.jpg",
+    "static/media/dress.jpg": "/shopping_portal/static/media/dress.769b55e1.jpg",
+    "static/media/frock.jpg": "/shopping_portal/static/media/frock.35577735.jpg",
+    "static/media/gown.jpg": "/shopping_portal/static/media/gown.6d77f247.jpg",
+    "static/media/midi.jpg": "/shopping_portal/static/media/midi.87e5b72a.jpg",
+    "static/media/short.jpg": "/shopping_portal/static/media/short.023ad846.jpg",
+    "static/media/suit.jpg": "/shopping_portal/static/media/suit.4b4b3b6d.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d44e8ad5.js",
+    "static/js/2.24851a86.chunk.js",
+    "static/css/main.c944e667.chunk.css",
+    "static/js/main.05908b98.chunk.js"
+  ]
+}
